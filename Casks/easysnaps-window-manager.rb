@@ -1,5 +1,5 @@
 cask "easysnaps-window-manager" do
-  version "1.5.5"
+  version "1.5.6"
   sha256 :no_check
 
   url "https://easysnaps.org/downloads/EasySnapsWindowManager.dmg"
